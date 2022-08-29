@@ -66,6 +66,7 @@ I love doing podcasts, especially those that target non-technical audiences. I r
 * ["Breaking Changes" Podcast with Kin Lane: API Observability through an API system of record](https://www.postman.com/events/breaking-changes/api-observability-through-an-api-system-of-record/)
 * [Technically Human Podcast: Cybersecurity in the age of zero trust](https://www.etcalpoly.org/the-technically-human-podcast/cybersecurity-in-the-age-of-zero-trust)
 * [Trino Community Broadcast: Trino connector resurfaces API calls](https://www.youtube.com/watch?v=dl5IKimBhrM&t=3s)
+* [PivotPoint Security: What you need to know about APIs and API security](https://www.pivotpointsecurity.com/podcasts/ep97-rob-dickinson-what-you-need-to-know-about-apis-and-api-security/)
 * [Resurface Labs: The art of API security](https://youtu.be/rq1w1oIj8Fs)
 * [Data Leadership Lessons: Democratizing APIs with Rob Dickinson](https://www.youtube.com/watch?v=gqhTfu1Ui_I)
 * [Tech & Main Presents: What is continuous API security?](https://anchor.fm/techandmain/episodes/Continuous-API-Security--Rob-Dickinson-e1dcea4/a-a425que)
