@@ -47,11 +47,12 @@ I have full-stack experience with multi-language projects, distributed databases
 
 ## My conference presentations
 
-I've been a featured speaker at technical conferences including Apidays, O'Reilly Velocity, O'Reilly Software Architecture, OWASP, GlueCon, Open Source North, Percona Live, and StrangeLoop.
+I love speaking at technical conferences, especially on the topics of API security and big-data technologies.
 
-* [OWASP Global AppSec US 2021: Sufficient logging and monitoring](https://www.youtube.com/watch?v=7RPh7JWaS9o)
-* [API Days Australia: Shifting out of triage mode with a failing API](https://www.youtube.com/watch?v=py2H2DSZBMM)
-* [API Days London: Securing PII at runtime](https://www.youtube.com/watch?v=Ktjhav1-G3U)
+* [apidays HK: If we know what APIs are, why can't we count them?](https://www.youtube.com/watch?v=c1AccMF4kho)
+* [OWASP Global: Sufficient logging and monitoring](https://www.youtube.com/watch?v=7RPh7JWaS9o)
+* [apidays Australia: Shifting out of triage mode with a failing API](https://www.youtube.com/watch?v=py2H2DSZBMM)
+* [apidays London: Securing PII at runtime](https://www.youtube.com/watch?v=Ktjhav1-G3U)
 * [Persona Live: Shifting from capture-first to query-first database architectures](https://youtu.be/buUmoQaRETo)
 * [Persona Live: Why we chose Trino for a primary datastore](https://www.youtube.com/watch?v=ztotHLeWsBo)
 * [Intel Developer Zone: Introduction to pmemkv](https://www.youtube.com/watch?v=rdDlWAN4KAc)
@@ -61,7 +62,7 @@ I've been a featured speaker at technical conferences including Apidays, O'Reill
 
 ## My podcast appearances
 
-I love doing podcasts, especially those that target non-technical audiences. I really enjoy chances to make technology more relatable to anybody curious about the impact of technology on our lives.
+I really enjoy doing podcasts, especially those that explore the impact of technology on the human condition.
 
 * ["Breaking Changes" Podcast with Kin Lane: API Observability through an API system of record](https://www.postman.com/events/breaking-changes/api-observability-through-an-api-system-of-record/)
 * [Technically Human Podcast: Cybersecurity in the age of zero trust](https://www.etcalpoly.org/the-technically-human-podcast/cybersecurity-in-the-age-of-zero-trust)
