@@ -62,7 +62,7 @@ I love speaking at technical conferences, especially on the topics of API securi
 
 ## My podcast appearances
 
-I really enjoy doing podcasts, especially those that explore the impact of tech on business and the human condition.
+I really enjoy doing podcasts that explore the impact of tech on business and the human condition.
 
 * [Enterprise Security Weekly: Top 5 Myths About API Security and What to Do Instead](https://www.youtube.com/watch?v=Gr8i2g8KGHM)
 * [Beyond the Byte with Joe and Abe: What's the deal with API Security?](https://www.youtube.com/watch?v=JB7ISHhbme4)
