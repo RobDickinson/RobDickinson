@@ -45,21 +45,6 @@ I have full-stack experience with multi-language projects, distributed databases
 </p>
 <br/>
 
-## My conference presentations
-
-I love speaking at technical conferences, especially on the topics of API security and big-data technologies.
-
-* [apidays HK: If we know what APIs are, why can't we count them?](https://www.youtube.com/watch?v=c1AccMF4kho)
-* [OWASP Global: Sufficient logging and monitoring](https://www.youtube.com/watch?v=7RPh7JWaS9o)
-* [apidays Australia: Shifting out of triage mode with a failing API](https://www.youtube.com/watch?v=py2H2DSZBMM)
-* [apidays London: Securing PII at runtime](https://www.youtube.com/watch?v=Ktjhav1-G3U)
-* [Percona Live: Shifting from capture-first to query-first database architectures](https://youtu.be/buUmoQaRETo)
-* [Percona Live: Why we chose Trino for a primary datastore](https://www.youtube.com/watch?v=ztotHLeWsBo)
-* [Intel Developer Zone: Introduction to pmemkv](https://www.youtube.com/watch?v=rdDlWAN4KAc)
-* [StrangeLoop: Promise and Pitfalls of persistent memory](https://www.youtube.com/watch?v=VE1hCUMLHX4)
-* [O'Reilly Velocity: 4 things I wish I knew sooner about persistent memory](https://www.oreilly.com/library/view/velocity-conference-2017/9781491976340/video314553.html)
-<br/>
-
 ## My podcast appearances
 
 I really enjoy doing podcasts that explore the impact of tech on business and the human condition.
@@ -78,6 +63,21 @@ I really enjoy doing podcasts that explore the impact of tech on business and th
 * [That Tech Show Podcast: Retro gaming and API security with Rob Dickinson](https://thattech.show/episodes/57-retro-gaming-and-api-security-with-rob-dickinson)
 * [Industrial IoT Spotlight: Enabling the M2M internet with secure APIs](https://podbay.fm/p/industrial-iot-spotlight/e/1641543356)
 * [Innected Podcast: The 12 startups man](https://www.youtube.com/watch?v=GNqHofPgqkQ)
+<br/>
+
+## My conference presentations
+
+I love speaking at technical conferences, especially on the topics of API security and big-data technologies.
+
+* [apidays HK: If we know what APIs are, why can't we count them?](https://www.youtube.com/watch?v=c1AccMF4kho)
+* [OWASP Global: Sufficient logging and monitoring](https://www.youtube.com/watch?v=7RPh7JWaS9o)
+* [apidays Australia: Shifting out of triage mode with a failing API](https://www.youtube.com/watch?v=py2H2DSZBMM)
+* [apidays London: Securing PII at runtime](https://www.youtube.com/watch?v=Ktjhav1-G3U)
+* [Percona Live: Shifting from capture-first to query-first database architectures](https://youtu.be/buUmoQaRETo)
+* [Percona Live: Why we chose Trino for a primary datastore](https://www.youtube.com/watch?v=ztotHLeWsBo)
+* [Intel Developer Zone: Introduction to pmemkv](https://www.youtube.com/watch?v=rdDlWAN4KAc)
+* [StrangeLoop: Promise and Pitfalls of persistent memory](https://www.youtube.com/watch?v=VE1hCUMLHX4)
+* [O'Reilly Velocity: 4 things I wish I knew sooner about persistent memory](https://www.oreilly.com/library/view/velocity-conference-2017/9781491976340/video314553.html)
 
 <!--
 **RobDickinson/RobDickinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
