@@ -62,8 +62,9 @@ I love speaking at technical conferences, especially on the topics of API securi
 
 ## My podcast appearances
 
-I really enjoy doing podcasts, especially those that explore the impact of technology on the human condition.
+I really enjoy doing podcasts, especially those that explore the impact of tech on business and the human condition.
 
+* [Enterprise Security Weekly: Top 5 Myths About API Security and What to Do Instead](https://www.youtube.com/watch?v=Gr8i2g8KGHM)
 * [Beyond the Byte with Joe and Abe: What's the deal with API Security?](https://www.youtube.com/watch?v=JB7ISHhbme4)
 * ["Breaking Changes" Podcast with Kin Lane: API Observability through an API system of record](https://www.postman.com/events/breaking-changes/api-observability-through-an-api-system-of-record/)
 * [Technically Human Podcast: Cybersecurity in the age of zero trust](https://www.etcalpoly.org/the-technically-human-podcast/cybersecurity-in-the-age-of-zero-trust)
