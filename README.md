@@ -1,5 +1,5 @@
 ## Hi there, I'm Rob 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4E9CFF&width=500&lines=%F0%9F%94%AD+Technical+leader+and+mentor;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Principal+engineer+(full-stack);%F0%9F%93%A3+Conference+and+podcast+speaker;%F0%9F%A5%81+Enthusiastically+bad+drummer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4E9CFF&width=500&lines=%F0%9F%94%AD+Technical+leader+and+mentor;%F0%9F%A4%96+Principal+engineer+(full-stack);%F0%9F%93%A3+Conference+and+podcast+speaker;%F0%9F%A5%81+Enthusiastically+bad+drummer)](https://git.io/typing-svg)
 
 ## My languages and tools
 I have full-stack experience with multi-language projects, distributed databases, cloud environments, and containerized applications. Lately I've been focusing on Java & Trino services on Kubernetes, with React/Tailwind UIs.
