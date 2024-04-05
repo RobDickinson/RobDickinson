@@ -69,6 +69,7 @@ I really enjoy doing podcasts that explore the impact of tech on business and th
 
 I love speaking at technical conferences, especially on the topics of API security and big-data technologies.
 
+* [Nordic APIs: API discovery from crawl to run](https://www.youtube.com/watch?v=JLW9ArYFBAU)
 * [apidays HK: If we know what APIs are, why can't we count them?](https://www.youtube.com/watch?v=c1AccMF4kho)
 * [OWASP Global: Sufficient logging and monitoring](https://www.youtube.com/watch?v=7RPh7JWaS9o)
 * [apidays Australia: Shifting out of triage mode with a failing API](https://www.youtube.com/watch?v=py2H2DSZBMM)
